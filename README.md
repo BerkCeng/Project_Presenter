@@ -1,0 +1,1 @@
+I have developed a website showcasing my software projects, focusing on the frontend skills I've honed. I strived to create a design that aligns with this objective, emphasizing an academic approach to frontend development
